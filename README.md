@@ -44,7 +44,7 @@ Built with Java – Android Studio
 
 ## 📄 Download My CV
 
-[⬇️ Click here to download my CV (PDF)](https://your-domain.com/assets/Huzaifa_AlMashhadani_CV.pdf)
+[⬇️ Click here to download my CV (PDF)](https://huzaifa-almashhadani.github.io/Portfolio/Huzaifa_AlMashhadani_CV.pdf)
 
 ---
 
