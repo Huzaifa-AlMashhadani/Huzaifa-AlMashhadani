@@ -10,6 +10,7 @@ From Babylon, Iraq 🇮🇶 | Passionate about building clean and functional sof
 - 📧 Email: [prhuzaifa@gmail.com](mailto:prhuzaifa@gmail.com)
 - 🌐 Portfolio: [huzaifa-almashhadani.github.io/Portfolio](https://huzaifa-almashhadani.github.io/Portfolio/)
 - 🐙 GitHub: [@Huzaifa-AlMashhadani](https://github.com/Huzaifa-AlMashhadani)
+- ▶️ YouTube: [**حذيفة المشهداني – قناة اليوتيوب**](https://www.youtube.com/@prhuzaifa)
 
 ---
 
